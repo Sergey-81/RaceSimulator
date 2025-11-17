@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RaceLibrary/RaceLibrary.vcxproj" Id="d2ff4fea-1f81-4041-8a12-b1f725637b90" />
+  <Project Path="SimpleRace/SimpleRace.vcxproj" Id="0c4968f0-8aa3-42ab-a67b-986e18f4b1a8" />
+</Solution>

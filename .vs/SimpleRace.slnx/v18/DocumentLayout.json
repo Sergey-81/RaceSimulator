@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4968F0-8AA3-42AB-A67B-986E18F4B1A8}|SimpleRace\\SimpleRace.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\SimpleRace\\SimpleRace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C4968F0-8AA3-42AB-A67B-986E18F4B1A8}|SimpleRace\\SimpleRace.vcxproj|solutionrelative:SimpleRace\\SimpleRace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\RaceExports.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\RaceExports.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Broom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\Broom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\RaceExports.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\RaceExports.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\MagicCarpet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\MagicCarpet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\GroundVehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\GroundVehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\FastCamel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\FastCamel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Eagle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\Eagle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Centaur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\Centaur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Camel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\Camel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\AllTerrainBoots.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\AllTerrainBoots.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\AirVehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FF4FEA-1F81-4041-8A12-B1F725637B90}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\AirVehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RaceExports.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\RaceExports.cpp",
+              "RelativeDocumentMoniker": "RaceLibrary\\RaceExports.cpp",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\RaceExports.cpp",
+              "RelativeToolTip": "RaceLibrary\\RaceExports.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T20:40:48.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Eagle.h",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Eagle.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\Eagle.h",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Eagle.h",
+              "RelativeToolTip": "RaceLibrary\\Eagle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T19:58:41.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FastCamel.h",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\FastCamel.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\FastCamel.h",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\FastCamel.h",
+              "RelativeToolTip": "RaceLibrary\\FastCamel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T19:59:16.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroundVehicle.h",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\GroundVehicle.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\GroundVehicle.h",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\GroundVehicle.h",
+              "RelativeToolTip": "RaceLibrary\\GroundVehicle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T20:00:00.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MagicCarpet.h",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\MagicCarpet.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\MagicCarpet.h",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\MagicCarpet.h",
+              "RelativeToolTip": "RaceLibrary\\MagicCarpet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T20:00:50.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RaceExports.h",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\RaceExports.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\RaceExports.h",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\RaceExports.h",
+              "RelativeToolTip": "RaceLibrary\\RaceExports.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T20:04:17.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.h",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Vehicle.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\Vehicle.h",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Vehicle.h",
+              "RelativeToolTip": "RaceLibrary\\Vehicle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T19:47:48.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleRace.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\SimpleRace\\SimpleRace.cpp",
+              "RelativeDocumentMoniker": "SimpleRace\\SimpleRace.cpp",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\SimpleRace\\SimpleRace.cpp",
+              "RelativeToolTip": "SimpleRace\\SimpleRace.cpp",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAwK4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T18:48:35.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\pch.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\pch.h",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\pch.h",
+              "RelativeToolTip": "RaceLibrary\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T20:43:52.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Broom.h",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Broom.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\Broom.h",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Broom.h",
+              "RelativeToolTip": "RaceLibrary\\Broom.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T19:56:50.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Centaur.h",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Centaur.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\Centaur.h",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Centaur.h",
+              "RelativeToolTip": "RaceLibrary\\Centaur.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T19:58:09.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Camel.h",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Camel.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\Camel.h",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\Camel.h",
+              "RelativeToolTip": "RaceLibrary\\Camel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T19:57:23.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AllTerrainBoots.h",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\AllTerrainBoots.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\AllTerrainBoots.h",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\AllTerrainBoots.h",
+              "RelativeToolTip": "RaceLibrary\\AllTerrainBoots.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T19:56:08.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AirVehicle.h",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\AirVehicle.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\AirVehicle.h",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u0432\\source\\repos\\SimpleRace\\RaceLibrary\\AirVehicle.h",
+              "RelativeToolTip": "RaceLibrary\\AirVehicle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T19:55:16.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
