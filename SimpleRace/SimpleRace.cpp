@@ -83,6 +83,14 @@ public:
         return results;
     }
 
+    std::vector<std::string> getRegisteredVehicleNames() const {
+        std::vector<std::string> names;
+        for (const auto& vehicle : vehicles) {
+            names.push_back(vehicle->getName());
+        }
+        return names;
+    }
+
     RaceType getType() const { return type; }
     double getDistance() const { return distance; }
     size_t getVehicleCount() const { return vehicles.size(); }
@@ -101,7 +109,6 @@ int main() {
     setlocale(LC_ALL, "Russian");
 
     HMODULE dllHandle = LoadLibraryA("RaceLibrary.dll");
-    std::cout << "DLL loaded successfully!" << std::endl;
     if (!dllHandle) {
         std::cout << "Ошибка загрузки DLL!" << std::endl;
         return 1;
@@ -119,20 +126,6 @@ int main() {
     auto getName = (GetNameFunc)GetProcAddress(dllHandle, "getVehicleName");
     auto calcTime = (CalculateTimeFunc)GetProcAddress(dllHandle, "calculateVehicleTime");
 
-    std::cout << "Checking functions..." << std::endl;
-    if (!createCamel) std::cout << "createCamel not found!" << std::endl;
-    if (!createFastCamel) std::cout << "createFastCamel not found!" << std::endl;
-    if (!createCentaur) std::cout << "createCentaur not found!" << std::endl;
-    if (!createBoots) std::cout << "createBoots not found!" << std::endl;
-    if (!createCarpet) std::cout << "createCarpet not found!" << std::endl;
-    if (!createEagle) std::cout << "createEagle not found!" << std::endl;
-    if (!createBroom) std::cout << "createBroom not found!" << std::endl;
-    if (!deleteVehicle) std::cout << "deleteVehicle not found!" << std::endl;
-    if (!getName) std::cout << "getName not found!" << std::endl;
-    if (!calcTime) std::cout << "calcTime not found!" << std::endl;
-    std::cout << "All functions found: " << (createCamel && createFastCamel && createCentaur && createBoots && createCarpet && createEagle && createBroom && deleteVehicle && getName && calcTime) << std::endl;
-
-
     std::vector<std::shared_ptr<DLLVehicle>> allVehicles;
 
     if (createCamel && createFastCamel && createCentaur && createBoots &&
@@ -147,10 +140,6 @@ int main() {
             std::make_shared<DLLVehicle>(createEagle(), deleteVehicle, getName, calcTime),
             std::make_shared<DLLVehicle>(createBroom(), deleteVehicle, getName, calcTime)
         };
-    }
-    std::cout << "Created " << allVehicles.size() << " vehicles" << std::endl;
-    for (const auto& vehicle : allVehicles) {
-        std::cout << "Vehicle name: '" << vehicle->getName() << "'" << std::endl;
     }
 
     std::map<std::string, std::shared_ptr<DLLVehicle>> vehicleMap;
@@ -192,7 +181,20 @@ int main() {
         while (inRaceMenu) {
             std::cout << "\nГонка: " << Race::raceTypeToString(race.getType())
                 << ", дистанция: " << race.getDistance()
-                << " км, зарегистрировано: " << race.getVehicleCount() << std::endl;
+                << " км" << std::endl;
+
+            std::cout << "Зарегистрированные ТС: ";
+            auto registeredNames = race.getRegisteredVehicleNames();
+            if (registeredNames.empty()) {
+                std::cout << "нет";
+            }
+            else {
+                for (size_t i = 0; i < registeredNames.size(); i++) {
+                    if (i > 0) std::cout << ", ";
+                    std::cout << registeredNames[i];
+                }
+            }
+            std::cout << std::endl;
 
             std::cout << "\n1. Зарегистрировать транспортное средство" << std::endl;
             std::cout << "2. Начать гонку" << std::endl;
@@ -208,7 +210,15 @@ int main() {
                 std::vector<std::string> availableVehicles;
 
                 for (const auto& [name, vehicle] : vehicleMap) {
+                    bool isGround = (name == "Верблюд" || name == "Верблюд-быстроход" ||
+                        name == "Кентавр" || name == "Ботинки-вездеходы");
+                    bool isAir = (name == "Ковёр-самолёт" || name == "Орёл" || name == "Метла");
+
                     bool canRegister = true;
+                    if ((raceType == RaceType::GROUND && !isGround) ||
+                        (raceType == RaceType::AIR && !isAir)) {
+                        canRegister = false;
+                    }
 
                     if (canRegister) {
                         std::cout << index << ". " << name << std::endl;

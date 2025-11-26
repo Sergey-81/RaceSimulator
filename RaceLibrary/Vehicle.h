@@ -1,4 +1,6 @@
 #pragma once
+#pragma warning(disable : 4251)
+
 #include "RaceExports.h"
 #include <string>
 
@@ -10,7 +12,7 @@ protected:
 public:
     Vehicle(const std::string& vehicleName, double vehicleSpeed)
         : name(vehicleName), speed(vehicleSpeed) {
-    }  
+    }
 
     virtual ~Vehicle() = default;
 
